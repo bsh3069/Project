@@ -1,11 +1,11 @@
-# project
+# roject
 알고리즘 구현
 
 
 
 Learning using local and global consistency
 
-# Reference.
+# Reference
 
 
 
