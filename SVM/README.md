@@ -3,3 +3,4 @@
 * SVM 알고링즘은 주어진 데이터 집합을 바탕으로 하여 새로운 데이터가 어느 카테고리에 속할지 판단하는 선형 분류 모델을 만든다.
 ### Reference
 * https://ko.wikipedia.org/wiki/%EC%84%9C%ED%8F%AC%ED%8A%B8_%EB%B2%A1%ED%84%B0_%EB%A8%B8%EC%8B%A0
+* https://blog.naver.com/PostView.nhn?blogId=winddori2002&logNo=221667083964
